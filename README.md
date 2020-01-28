@@ -1,2 +1,3 @@
-# cs320-lab2
-Repo for lab 2 of cs 320 at UW-Madison
+# Tuesday Morning Co
+
+It is early on Tuesday morning. I am tired.
